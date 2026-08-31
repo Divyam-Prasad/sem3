@@ -29,5 +29,5 @@ def Dijkstra(source, goal, visited):
     for item in source.neighbours:
         temp_neighbours.append(item)
     for item in temp_neighbours:
-        if item.cost > d_v + item.cost: 
+        if item.cost >  + : 
              
